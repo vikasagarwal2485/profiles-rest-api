@@ -25,7 +25,7 @@ SECRET_KEY = 'knv_*-y7$w%i&vvth4(le^x9#&jti7@io(1w+l99kewe+7l*!)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
